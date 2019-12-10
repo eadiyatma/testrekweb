@@ -1,3 +1,3 @@
 # testrekweb
 
-coba 1
+coba 1 * 2
